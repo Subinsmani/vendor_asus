@@ -42,6 +42,7 @@ PRODUCT_COPY_FILES += \
     vendor/asus/X00TD/proprietary/framework/embmslibrary.jar:system/framework/embmslibrary.jar \
     vendor/asus/X00TD/proprietary/framework/org.simalliance.openmobileapi.jar:system/framework/org.simalliance.openmobileapi.jar \
     vendor/asus/X00TD/proprietary/framework/tcmclient.jar:system/framework/tcmclient.jar \
+    vendor/asus/X00TD/proprietary/framework/qti-telephony-common.jar:system/framework/qti-telephony-common.jar \
     vendor/asus/X00TD/proprietary/framework/vendor.qti.hardware.fingerprint-V1.0-java.jar:system/framework/vendor.qti.hardware.fingerprint-V1.0-java.jar \
     vendor/asus/X00TD/proprietary/lib/com.qualcomm.qti.wifidisplayhal@1.0.so:system/lib/com.qualcomm.qti.wifidisplayhal@1.0.so \
     vendor/asus/X00TD/proprietary/lib/extractors/libmmparser.so:system/lib/extractors/libmmparser.so \
